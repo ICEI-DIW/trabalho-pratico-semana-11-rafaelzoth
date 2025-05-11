@@ -1,4 +1,220 @@
 {
+  "receitas": [
+    {
+      "id": 1,
+      "titulo": "Macarrão à Bolonhesa",
+      "categoria": "Pratos Principais",
+      "imagem": "img/macarrao.png",
+      "descricao": "Clássico italiano perfeito para o almoço de domingo",
+      "ingredientes": [
+        "500g de macarrão",
+        "400g de carne moída",
+        "2 latas de molho de tomate",
+        "Cebola e alho a gosto"
+      ],
+      "preparo": "Cozinhe o macarrão al dente. Refogue a carne com cebola e alho, adicione o molho e deixe apurar.",
+      "tempoPreparo": "40 min",
+      "dificuldade": "Média"
+    },
+    {
+      "id": 2,
+      "titulo": "Salada Ceasar",
+      "categoria": "Entradas",
+      "imagem": "img/Salada.png",
+      "descricao": "Salada clássica e refrescante para qualquer ocasião",
+      "ingredientes": [
+        "Alface romana",
+        "Croutons",
+        "Queijo parmesão",
+        "Molho Caesar"
+      ],
+      "preparo": "Misture a alface com o molho, adicione croutons e queijo ralado por cima.",
+      "tempoPreparo": "15 min",
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 3,
+      "titulo": "Pudim de Leite",
+      "categoria": "Sobremesas",
+      "imagem": "img/pudim.png",
+      "descricao": "Sobremesa cremosa que conquista a todos",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "1 lata de leite",
+        "3 ovos",
+        "Calda de caramelo"
+      ],
+      "preparo": "Bata todos os ingredientes no liquidificador, coloque em forma caramelizada e asse em banho-maria.",
+      "tempoPreparo": "1 hora",
+      "dificuldade": "Média"
+    },
+    {
+      "id": 4,
+      "titulo": "Risoto de Funghi",
+      "categoria": "Pratos Principais",
+      "imagem": "img/risoto.png",
+      "descricao": "Risoto cremoso com cogumelos frescos, perfeito para um jantar especial",
+      "ingredientes": [
+        "300g de arroz arbóreo",
+        "200g de cogumelos funghi frescos",
+        "1 cebola picada",
+        "1 litro de caldo de legumes",
+        "100ml de vinho branco",
+        "50g de manteiga",
+        "50g de queijo parmesão ralado"
+      ],
+      "preparo": "Refogue a cebola na manteiga, acrescente os cogumelos e o arroz. Adicione o vinho e deixe evaporar. Acrescente o caldo aos poucos, mexendo sempre. Finalize com parmesão.",
+      "tempoPreparo": "35 min",
+      "dificuldade": "Média"
+    },
+    {
+      "id": 5,
+      "titulo": "Bruschetta Italiana",
+      "categoria": "Entradas",
+      "imagem": "img/bruschetta.png",
+      "descricao": "Clássico antipasto italiano simples e saboroso",
+      "ingredientes": [
+        "1 pão italiano",
+        "3 tomates maduros",
+        "2 dentes de alho",
+        "Folhas de manjericão",
+        "Azeite de oliva",
+        "Sal a gosto"
+      ],
+      "preparo": "Toste o pão. Misture tomates picados, alho, manjericão, azeite e sal. Coloque sobre o pão tostado.",
+      "tempoPreparo": "15 min",
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 6,
+      "titulo": "Mousse de Chocolate",
+      "categoria": "Sobremesas",
+      "imagem": "img/mousse.png",
+      "descricao": "Sobremesa leve e irresistível para os amantes de chocolate",
+      "ingredientes": [
+        "200g de chocolate meio amargo",
+        "3 ovos",
+        "2 colheres de sopa de açúcar",
+        "1 pitada de sal"
+      ],
+      "preparo": "Derreta o chocolate. Separe as claras e bata em neve com o açúcar. Misture as gemas ao chocolate derretido e depois incorpore as claras em neve. Leve à geladeira por 4 horas.",
+      "tempoPreparo": "20 min (+4h geladeira)",
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 7,
+      "titulo": "Strogonoff de Carne",
+      "categoria": "Pratos Principais",
+      "imagem": "img/strogonoff.png",
+      "descricao": "Clássico da culinária russa adaptado ao paladar brasileiro",
+      "ingredientes": [
+        "500g de filé mignon em tiras",
+        "1 cebola picada",
+        "200g de champignons",
+        "1 colher de mostarda",
+        "1 colher de ketchup",
+        "1 lata de creme de leite",
+        "1/2 xícara de caldo de carne"
+      ],
+      "preparo": "Doure a carne com a cebola. Acrescente os champignons, mostarda e ketchup. Adicione o caldo e por último o creme de leite. Sirva com arroz e batata palha.",
+      "tempoPreparo": "40 min",
+      "dificuldade": "Média"
+    },
+    {
+      "id": 8,
+      "titulo": "Caponata de Berinjela",
+      "categoria": "Entradas",
+      "imagem": "img/caponata.png",
+      "descricao": "Antipasto italiano com berinjela e vegetais",
+      "ingredientes": [
+        "1 berinjela grande",
+        "1 cebola roxa",
+        "2 tomates",
+        "1 pimentão amarelo",
+        "Azeitonas pretas",
+        "Vinagre balsâmico",
+        "Azeite de oliva"
+      ],
+      "preparo": "Corte todos os vegetais em cubos e refogue no azeite. Adicione as azeitonas e regue com vinagre balsâmico. Sirva frio.",
+      "tempoPreparo": "25 min",
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 9,
+      "titulo": "Torta de Limão",
+      "categoria": "Sobremesas",
+      "imagem": "img/torta-limao.png",
+      "descricao": "Clássico brasileiro com massa crocante e recheio cremoso",
+      "ingredientes": [
+        "200g de biscoito maisena",
+        "100g de manteiga",
+        "1 lata de leite condensado",
+        "1/2 xícara de suco de limão",
+        "3 gemas",
+        "Claras em neve para o merengue"
+      ],
+      "preparo": "Triture os biscoitos e misture com a manteiga para a massa. Prepare o recheio com leite condensado, suco e gemas. Cubra com merengue e asse por 15 minutos.",
+      "tempoPreparo": "45 min",
+      "dificuldade": "Média"
+    },
+    {
+      "id": 10,
+      "titulo": "Moqueca de Peixe",
+      "categoria": "Pratos Principais",
+      "imagem": "img/moqueca.png",
+      "descricao": "Prato tradicional brasileiro com peixe e leite de coco",
+      "ingredientes": [
+        "500g de filé de peixe branco",
+        "1 pimentão verde",
+        "1 pimentão vermelho",
+        "2 tomates",
+        "1 cebola",
+        "200ml de leite de coco",
+        "Azeite de dendê",
+        "Coentro"
+      ],
+      "preparo": "Em uma panela de barro, faça camadas com os vegetais e o peixe. Adicione o leite de coco e dendê. Cozinhe em fogo baixo por 20 minutos. Finalize com coentro.",
+      "tempoPreparo": "40 min",
+      "dificuldade": "Média"
+    },
+    {
+      "id": 11,
+      "titulo": "Creme de Abóbora",
+      "categoria": "Entradas",
+      "imagem": "img/creme-abobora.png",
+      "descricao": "Sopa cremosa e reconfortante para dias frios",
+      "ingredientes": [
+        "500g de abóbora cabotiá",
+        "1 cebola",
+        "2 dentes de alho",
+        "500ml de caldo de legumes",
+        "100ml de creme de leite",
+        "Noz-moscada a gosto"
+      ],
+      "preparo": "Cozinhe a abóbora com os temperos no caldo. Bata no liquidificador e volte ao fogo com o creme de leite. Tempere com noz-moscada.",
+      "tempoPreparo": "30 min",
+      "dificuldade": "Fácil"
+    },
+    {
+      "id": 12,
+      "titulo": "Cheesecake de Frutas Vermelhas",
+      "categoria": "Sobremesas",
+      "imagem": "img/cheesecake.png",
+      "descricao": "Sobremesa elegante com base crocante e cobertura de frutas",
+      "ingredientes": [
+        "200g de biscoito digestivo",
+        "100g de manteiga",
+        "400g de cream cheese",
+        "1 xícara de creme de leite",
+        "1/2 xícara de açúcar",
+        "1 colher de chá de baunilha",
+        "Frutas vermelhas para decorar"
+      ],
+      "preparo": "Prepare a base com biscoitos triturados e manteiga. Misture os outros ingredientes para o recheio e asse por 40 minutos. Decore com frutas vermelhas.",
+      "tempoPreparo": "1 hora (+4h geladeira)",
+      "dificuldade": "Difícil"
+    }
+  ],
   "usuarios": [
     {
       "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
