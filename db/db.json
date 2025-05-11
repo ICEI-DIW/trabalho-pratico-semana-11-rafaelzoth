@@ -4,7 +4,7 @@
       "id": 1,
       "titulo": "Macarrão à Bolonhesa",
       "categoria": "Pratos Principais",
-      "imagem": "img/macarrao.png",
+      "imagem": "",
       "descricao": "Clássico italiano perfeito para o almoço de domingo",
       "ingredientes": [
         "500g de macarrão",
@@ -20,7 +20,7 @@
       "id": 2,
       "titulo": "Salada Ceasar",
       "categoria": "Entradas",
-      "imagem": "img/Salada.png",
+      "imagem": "assets/img/Salada.png",
       "descricao": "Salada clássica e refrescante para qualquer ocasião",
       "ingredientes": [
         "Alface romana",
@@ -36,7 +36,7 @@
       "id": 3,
       "titulo": "Pudim de Leite",
       "categoria": "Sobremesas",
-      "imagem": "img/pudim.png",
+      "imagem": "assets/img/pudim.png",
       "descricao": "Sobremesa cremosa que conquista a todos",
       "ingredientes": [
         "1 lata de leite condensado",
@@ -52,7 +52,7 @@
       "id": 4,
       "titulo": "Risoto de Funghi",
       "categoria": "Pratos Principais",
-      "imagem": "img/risoto.png",
+      "imagem": "assets/img/risoto.png",
       "descricao": "Risoto cremoso com cogumelos frescos, perfeito para um jantar especial",
       "ingredientes": [
         "300g de arroz arbóreo",
@@ -71,7 +71,7 @@
       "id": 5,
       "titulo": "Bruschetta Italiana",
       "categoria": "Entradas",
-      "imagem": "img/bruschetta.png",
+      "imagem": "assets/img/bruschetta.png",
       "descricao": "Clássico antipasto italiano simples e saboroso",
       "ingredientes": [
         "1 pão italiano",
@@ -89,7 +89,7 @@
       "id": 6,
       "titulo": "Mousse de Chocolate",
       "categoria": "Sobremesas",
-      "imagem": "img/mousse.png",
+      "imagem": "assets/img/mousse.png",
       "descricao": "Sobremesa leve e irresistível para os amantes de chocolate",
       "ingredientes": [
         "200g de chocolate meio amargo",
@@ -105,7 +105,7 @@
       "id": 7,
       "titulo": "Strogonoff de Carne",
       "categoria": "Pratos Principais",
-      "imagem": "img/strogonoff.png",
+      "imagem": "assets/img/strogonoff.png",
       "descricao": "Clássico da culinária russa adaptado ao paladar brasileiro",
       "ingredientes": [
         "500g de filé mignon em tiras",
@@ -124,7 +124,7 @@
       "id": 8,
       "titulo": "Caponata de Berinjela",
       "categoria": "Entradas",
-      "imagem": "img/caponata.png",
+      "imagem": "assets/img/caponata.png",
       "descricao": "Antipasto italiano com berinjela e vegetais",
       "ingredientes": [
         "1 berinjela grande",
@@ -143,7 +143,7 @@
       "id": 9,
       "titulo": "Torta de Limão",
       "categoria": "Sobremesas",
-      "imagem": "img/torta-limao.png",
+      "imagem": "assets/img/torta-limao.png",
       "descricao": "Clássico brasileiro com massa crocante e recheio cremoso",
       "ingredientes": [
         "200g de biscoito maisena",
@@ -161,7 +161,7 @@
       "id": 10,
       "titulo": "Moqueca de Peixe",
       "categoria": "Pratos Principais",
-      "imagem": "img/moqueca.png",
+      "imagem": "assets/img/moqueca.png",
       "descricao": "Prato tradicional brasileiro com peixe e leite de coco",
       "ingredientes": [
         "500g de filé de peixe branco",
@@ -181,7 +181,7 @@
       "id": 11,
       "titulo": "Creme de Abóbora",
       "categoria": "Entradas",
-      "imagem": "img/creme-abobora.png",
+      "imagem": "assets/img/creme-abobora.png",
       "descricao": "Sopa cremosa e reconfortante para dias frios",
       "ingredientes": [
         "500g de abóbora cabotiá",
@@ -199,7 +199,7 @@
       "id": 12,
       "titulo": "Cheesecake de Frutas Vermelhas",
       "categoria": "Sobremesas",
-      "imagem": "img/cheesecake.png",
+      "imagem": "assets/img/cheesecake.png",
       "descricao": "Sobremesa elegante com base crocante e cobertura de frutas",
       "ingredientes": [
         "200g de biscoito digestivo",
